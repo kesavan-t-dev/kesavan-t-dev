@@ -2,8 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Mitrahsoft<br>🌱 I’m currently learning Django
-
+🔭 I’m currently working on Mitrahsoft<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kesavan.t@mitrahsoft.in) 
